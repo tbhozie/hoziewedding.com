@@ -10,3 +10,5 @@ fields:
 - type: text
   label: Banner Header
   name: banner_header
+pages:
+- content/home.md
