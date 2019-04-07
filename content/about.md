@@ -5,3 +5,4 @@ header_text: About Us
 date: 2019-04-07 18:44:34 -0500
 
 ---
+Hi! Welcome to our wedding website. Below you can read about Tyler and Brooke. How we met, where we got engaged, as well as our party for the wedding.
