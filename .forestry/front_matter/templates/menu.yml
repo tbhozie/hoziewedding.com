@@ -1,0 +1,7 @@
+---
+label: Menu
+hide_body: true
+fields:
+- type: text
+  name: menu_item
+  label: Menu Item

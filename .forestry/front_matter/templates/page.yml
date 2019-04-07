@@ -8,10 +8,11 @@ fields:
   config:
     required: true
 - type: file
-  name: banner_image
-  label: Banner Image
+  name: featured_image
+  label: Featured Image
 - type: text
-  name: banner_header
-  label: Banner Header
+  name: header_text
+  label: Header Text
 pages:
+- content/about.md
 - content/rsvp.md
