@@ -13,3 +13,5 @@ fields:
 - type: text
   name: banner_header
   label: Banner Header
+pages:
+- content/rsvp.md
