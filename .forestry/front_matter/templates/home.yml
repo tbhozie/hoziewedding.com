@@ -1,0 +1,12 @@
+---
+label: Home
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  label: Banner Header
+  name: banner_header
