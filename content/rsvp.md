@@ -2,7 +2,10 @@
 title: RSVP
 banner_image: ''
 banner_header: RSVP
-date: 2019-04-07 18:24:05 -0500
+date: 2019-04-07 23:24:05 +0000
+menu:
+  main:
+    weight: 2
 
 ---
 Let us know if you can make it! Fill out the form below to RSVP.
