@@ -1,7 +1,6 @@
 ---
 label: Home
 hide_body: false
-display_field: title
 fields:
 - type: text
   name: title
