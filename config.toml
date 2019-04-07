@@ -2,7 +2,7 @@ title = "Hozie Wedding"
 baseURL = "https://hoziewedding.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
-themesDir = "/themes"
+themesDir = "themes"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
