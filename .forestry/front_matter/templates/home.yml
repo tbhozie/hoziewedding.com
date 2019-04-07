@@ -7,6 +7,9 @@ fields:
   label: Title
   config:
     required: true
+- type: file
+  name: banner_image
+  label: Banner Image
 - type: text
   label: Banner Header
   name: banner_header
