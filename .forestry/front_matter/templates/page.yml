@@ -1,4 +1,15 @@
 ---
 label: Page
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: file
+  name: banner_image
+  label: Banner Image
+- type: text
+  name: banner_header
+  label: Banner Header
