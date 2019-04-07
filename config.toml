@@ -18,12 +18,6 @@ enableRobotsTXT = true
 
 [menu]
 
-  [[menu.main]]
-    identifier = "about"
-    name = "about us"
-    url = "/about/"
-    weight = -110
-
 
 [sitemap]
   changefreq = "monthly"
