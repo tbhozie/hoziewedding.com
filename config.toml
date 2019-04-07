@@ -11,6 +11,8 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[menu]
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
