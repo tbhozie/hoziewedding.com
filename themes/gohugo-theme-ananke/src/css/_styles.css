@@ -3,3 +3,7 @@
 #TableOfContents ul li {
   margin-bottom: 1em;
 }
+
+body .bg-top {
+  background-position: center;
+}
