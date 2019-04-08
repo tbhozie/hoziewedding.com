@@ -13,3 +13,5 @@ menu:
 Hi! Welcome to our wedding website. Below you can read about Tyler and Brooke. How we met, where we got engaged, as well as our party for the wedding.
 
 ## How we met
+
+It all started
