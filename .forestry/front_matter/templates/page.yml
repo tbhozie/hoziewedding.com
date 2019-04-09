@@ -11,6 +11,7 @@ fields:
   name: featured_image
   label: Featured Image
 pages:
+- content/homepage.md
 - content/registry.md
 - content/about.md
 - content/rsvp.md
