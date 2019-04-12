@@ -10,6 +10,13 @@ fields:
 - type: file
   name: featured_image
   label: Featured Image
+- type: textarea
+  name: sidebar_content
+  label: Sidebar Content
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
 - content/registry.md
 - content/about.md
