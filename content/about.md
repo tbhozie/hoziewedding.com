@@ -3,6 +3,7 @@ title: About
 featured_image: "/uploads/about-bg.jpg"
 header_text: About Us
 date: 2019-04-07 23:44:34 +0000
+sidebar_content: ''
 menu:
   main:
     name: About Us
@@ -13,5 +14,3 @@ menu:
 Hi! Welcome to our wedding website. Below you can read about Tyler and Brooke. How we met, where we got engaged, as well as our party for the wedding.
 
 ## How we met
-
-It all started
