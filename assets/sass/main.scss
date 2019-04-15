@@ -1,4 +1,14 @@
-body .bg-top {
-  background-position: center;
-  min-height: 100vh;
+body {
+  .bg-top {
+    position: relative;
+    background-position: center;
+    min-height: 100vh;
+  }
+  .bg-black-60 {
+    &.full {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+    }
+  }
 }
