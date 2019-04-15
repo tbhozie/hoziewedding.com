@@ -12,4 +12,4 @@ menu:
 ---
 Let us know if you can make it! Fill out the form below to RSVP.
 
-{{< form-contact action="https://formspree.io/tylerhozie@yahoo.com" >}}
+{{< form-rsvp action="https://formspree.io/tylerhozie@yahoo.com" >}}
