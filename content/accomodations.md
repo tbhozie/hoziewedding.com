@@ -2,6 +2,9 @@
 title: Accommodations
 featured_image: ''
 sidebar_content: ''
+menu:
+  main:
+    weight: 2
 
 ---
 ### Find all the details below for accommodations

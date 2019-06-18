@@ -2,10 +2,10 @@
 title: Registry
 featured_image: ''
 header_text: Registry
-date: 2019-04-08 00:20:39 +0000
+date: '2019-04-08T00:20:39.000+00:00'
 menu:
   main:
-    weight: 2
+    weight: 3
 
 ---
 We are registered at the following stores:

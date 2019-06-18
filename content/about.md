@@ -2,7 +2,7 @@
 title: About
 featured_image: "/uploads/about-bg.jpg"
 header_text: About Us
-date: 2019-04-07 23:44:34 +0000
+date: '2019-04-07T23:44:34.000+00:00'
 sidebar_content: ''
 menu:
   main:
@@ -15,4 +15,4 @@ Hi! Welcome to our wedding website. Below you can read about Tyler and Brooke. H
 
 ## How we met
 
-We met at Gorilla 76, a marketing agency here in St. Louis. Tyler loved that Brooke had a very bubbly personality and that she was a very positive person. 
+We met at Gorilla 76, a marketing agency here in St. Louis. Tyler loved that Brooke had a very bubbly personality and that she was a very positive person.
