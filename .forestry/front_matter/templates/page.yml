@@ -18,7 +18,7 @@ fields:
     schema:
       format: markdown
 pages:
-- content/about.md
 - content/accomodations.md
+- content/about.md
 - content/registry.md
 - content/rsvp.md
