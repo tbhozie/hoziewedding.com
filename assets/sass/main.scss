@@ -4,6 +4,10 @@ body {
     background-position: center;
     height: 70vh;
 
+    &.home {
+      height: 100vh;
+    }
+
     .header-title {
       position: absolute;
       top: 50%;
