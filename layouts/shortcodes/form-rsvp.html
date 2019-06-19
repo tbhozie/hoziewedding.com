@@ -4,17 +4,40 @@
 <form class="black-80 sans-serif" accept-charset="UTF-8" action="{{ .Get "action" }}" method="POST" role="form">
 
     <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">Your Name</label>
-    <input type="text" id="name" name="name" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="name"/>
+    <input type="text" id="name" name="name" required  aria-labelledby="name"/>
 
-    <label class="{{ $.Scratch.Get "labelClasses" }}" for="email">Email Address</label>
-    <input type="email" id="email" name="email" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="email"/>
-    <div class="requirements f6 gray glow i ph3 overflow-hidden">
-      An email address is required.
+    <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">Are you attending?</label>
+    <select id="attending" name="attending" required>
+      <option value="Yes">Yes, wouldn't miss it</option>
+      <option value="No">Sorry, can't make it</option>
+    </select>
+
+    <div class="attending-guests">
+      <p>
+        Please enter the name of each guest that will be attending.
+      </p>
+      <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">Guest Names</label>
+      <div class="inputs">
+        <input type="text" name="guest-name[]" value="" placeholder="Guest Name" required  />
+      </div>
+
+      <button id="addGuest">Add Guest</button>
     </div>
 
-    <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">Message</label>
-    <textarea id="message" name="message" class="{{ $.Scratch.Get "inputClasses" }} h4" aria-labelledby="message"></textarea>
+    <div class="guest-options">
+      <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">Are you all attending the welcome/rehearsal dinner on Friday?</label>
+      <select id="welcome_dinner" name="welcome_dinner" required>
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+      </select>
 
-    <input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-blck bg-animate bg-black" type="submit" value="Send" />
+      <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">Number of kids meals</label>
+      <input type="text" name="kids_meals" value="" />
+
+      <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">Number of vegetarian meals</label>
+      <input type="text" name="vegetarian" value="" />
+    </div>
+
+    <input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-blck bg-animate bg-black" type="submit" value="Submit" />
 
 </form>
