@@ -13,4 +13,4 @@ menu:
 ---
 Let us know if you can make it! Fill out the form below to RSVP.
 
-{{< form-rsvp action="http://tylerhozie.com/form.php" >}}
+{{< form-rsvp action="http://tylerhozie.com/rsvp.php" >}}
