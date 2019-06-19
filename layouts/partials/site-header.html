@@ -1,4 +1,5 @@
 {{ $featured_image := .Param "featured_image"}}
+{{ $featured_headline := .Param "featured_headline"}}
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
@@ -7,7 +8,11 @@
       {{ partialCached "site-navigation.html" .}}
       <div class="main-title">
         <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
-          {{ .Title | default .Site.Title }}
+          {{ if $featured_headline }}
+            {{ $featured_headline }}
+          {{ else }}
+            {{ .Title | default .Site.Title }}
+          {{ end }}
         </h1>
         {{ with .Params.description }}
           <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
