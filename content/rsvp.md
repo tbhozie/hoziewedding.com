@@ -11,6 +11,6 @@ menu:
     weight: 4
 
 ---
-Let us know if you can make it! Fill out the form below to RSVP.
+Let us know if you can make it! Fill out the form below to RSVP, or you can send in your RSVP from the invitation.
 
 {{< form-rsvp action="http://tylerhozie.com/rsvp.php" >}}
