@@ -15,7 +15,7 @@ jQuery(document).ready(function(){
   });
 
   $('#addGuest').click(function(){
-
+    $('<input class="w-100 f5 pv3 ph3 bg-light-gray bn" type="text" name="guest-name[]" value="" placeholder="Guest Name">').appendTo('.attending-guests .inputs');
   });
 
 });
