@@ -15,4 +15,4 @@ Hi! Welcome to our wedding website. Below you can read about Tyler and Brooke. H
 
 ## How we met
 
-We met at Gorilla 76, a marketing agency here in St. Louis. Tyler loved that Brooke had a very bubbly personality and that she was a very positive person.
+We met at Gorilla 76, a marketing agency here in St. Louis. Tyler loved that Brooke had a very bubbly personality and that she was a very positive person. He
