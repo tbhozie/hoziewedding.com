@@ -10,3 +10,5 @@ menu:
 
 ---
 We are registered at the following stores:
+
+![Target](/uploads/target-logo.png "Target")
