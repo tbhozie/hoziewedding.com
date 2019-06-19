@@ -9,7 +9,7 @@ menu:
     weight: 3
 
 ---
-We are registered at the following stores:
+We are registered at the following stores, click a logo below to be taken to our online registry.
 
 <a target="_blank" href="https://www.target.com/gift-registry/giftgiver?registryId=071cca8cf3c94f1fb2236b071853a321&type=WEDDING"><img src="/uploads/target-logo.png" /></a>
 
