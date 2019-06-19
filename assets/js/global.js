@@ -17,4 +17,8 @@ jQuery(document).ready(function(){
     $('<input class="w-100 f5 pv3 ph3 bg-light-gray bn" type="text" name="guest-name[]" value="" placeholder="Guest Name">').appendTo('.attending-guests .inputs');
   });
 
+  if (window.location.href.indexOf("?success") > -1) {
+      $('#success').show();
+  }
+
 });
