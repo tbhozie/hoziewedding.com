@@ -49,14 +49,17 @@ body {
   }
 
   .rsvp-form {
+    select {
+      -webkit-appearance: none;
+    }
     .attending-guests {
       display: none;
-      margin: 25px 0;
+      margin: 30px 0;
 
       p {
         font-size: 1rem;
       }
-      #addguest {
+      #addGuest {
         background-color: #000;
         color: #fff;
         display: inline-block;
