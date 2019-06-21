@@ -23,7 +23,12 @@ body {
       }
     }
     .menu-btn {
+      position: absolute;
+      right: 1rem;
+      top: 1rem;
+      cursor: pointer;
       .bar {
+        display: block;
         width: 30px;
         height: 2px;
         background-color: #fff;
@@ -98,14 +103,22 @@ body {
     display: block;
   }
   body .bg-black-60.full .main-title .headline {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
   body {
     nav {
       ul {
+        display: none;
         position: absolute;
         right: 0;
-        top: 0;
+        top: 50px;
+        margin: 0;
+        padding: 10px;
+
+        li {
+          display: block;
+          padding: 8px 0;
+        }
       }
     }
   }
