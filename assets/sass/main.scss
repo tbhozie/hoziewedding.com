@@ -105,6 +105,14 @@ body {
       margin-top: 25px;
     }
   }
+  .nested-links {
+    a {
+      img {
+        margin-left: 0;
+        margin-bottom: 15px;
+      }
+    }
+  }
   &.menuOpen {
     nav {
       .menu-btn {
