@@ -1,4 +1,7 @@
 body {
+  .mobile {
+    display: none;
+  }
   .bg-top {
     position: relative;
     background-position: center;
@@ -17,6 +20,17 @@ body {
       margin: 0 auto;
       h1 {
         margin: 0;
+      }
+    }
+    .menu-btn {
+      .bar {
+        width: 30px;
+        height: 2px;
+        background-color: #fff;
+
+        &.bar-2 {
+          margin: 5px 0;
+        }
       }
     }
   }
@@ -75,6 +89,24 @@ body {
     }
     input[type="submit"] {
       margin-top: 25px;
+    }
+  }
+}
+
+@media(max-width: 600px) {
+  body .mobile {
+    display: block;
+  }
+  body .bg-black-60.full .main-title .headline {
+    font-size: 2rem;
+  }
+  body {
+    nav {
+      ul {
+        position: absolute;
+        right: 0;
+        top: 0;
+      }
     }
   }
 }
