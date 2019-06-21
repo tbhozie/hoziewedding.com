@@ -25,6 +25,6 @@ Reception: Immediately follows ceremony
 1820 N Market St, St. Louis, MO 63103  
 [(](tel:3142311234 "Call via Hangouts")[314) 231-1234](tel:3142311234 "Call")
 
-To book a room, please call the number above and tell them you are wanting to reserve a room for the "Hozie and Wiley Wedding". We have rooms booked for Friday (September 20) and Saturday (September 21). If you come early you can try booking a room earlier, but they are not guaranteed.
+To book a room, please call the number above and tell them you are wanting to reserve a room for the "Hozie and Wiley Wedding". We have rooms blocked for Friday (September 20) and Saturday (September 21). If you come early you can try booking a room earlier, but they are not guaranteed.
 
 Also, there will be a shuttle to the hotel from Windows on Washington after the reception.
