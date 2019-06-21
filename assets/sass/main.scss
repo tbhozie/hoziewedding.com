@@ -97,7 +97,7 @@ body {
       margin-top: 25px;
     }
   }
-  .menuOpen {
+  &.menuOpen {
     nav {
       ul#main-nav {
         visibility: visible;
