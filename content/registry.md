@@ -1,9 +1,10 @@
 ---
 title: Registry
-featured_image: ''
+featured_image: "/uploads/about-bg.jpg"
 header_text: Registry
 date: '2019-04-08T00:20:39.000+00:00'
 sidebar_content: ''
+featured_headline: ''
 menu:
   main:
     weight: 3
