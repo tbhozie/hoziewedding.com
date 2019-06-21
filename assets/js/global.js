@@ -23,6 +23,7 @@ jQuery(document).ready(function(){
   });
 
   if (window.location.href.indexOf("?success") > -1) {
+    // SHow success message
       $('#success').show();
   }
 
