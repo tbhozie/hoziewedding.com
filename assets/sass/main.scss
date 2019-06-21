@@ -2,25 +2,10 @@ body {
   .mobile {
     display: none;
   }
-  .bg-top {
-    position: relative;
-    background-position: center;
-    height: 70vh;
-
-    &.home {
-      height: 100vh;
-    }
-
-    .header-title {
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
-      left: 0;
-      right: 0;
-      margin: 0 auto;
-      h1 {
-        margin: 0;
-      }
+  nav {
+    .home-link {
+      z-index: 9999;
+      position: relative;
     }
     .menu-btn {
       position: absolute;
@@ -39,6 +24,27 @@ body {
         &.bar-2 {
           margin: 5px 0;
         }
+      }
+    }
+  }
+  .bg-top {
+    position: relative;
+    background-position: center;
+    height: 70vh;
+
+    &.home {
+      height: 100vh;
+    }
+
+    .header-title {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+      h1 {
+        margin: 0;
       }
     }
   }
@@ -101,13 +107,6 @@ body {
   }
   &.menuOpen {
     nav {
-      ul#main-nav {
-        visibility: visible;
-        opacity: 1;
-        z-index: 999;
-      }
-    }
-    .bg-top {
       .menu-btn {
         .bar {
           &.bar-1 {
@@ -123,6 +122,11 @@ body {
             opacity: 0;
           }
         }
+      }
+      ul#main-nav {
+        visibility: visible;
+        opacity: 1;
+        z-index: 999;
       }
     }
   }
