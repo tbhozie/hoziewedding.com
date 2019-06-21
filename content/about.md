@@ -10,6 +10,7 @@ menu:
     name: About Us
     identifier: about
     weight: 1
+draft: true
 
 ---
 Hi! Welcome to our wedding website. Below you can read about Tyler and Brooke. How we met, where we got engaged, as well as our party for the wedding.
