@@ -26,6 +26,7 @@ body {
       position: absolute;
       right: 1rem;
       top: 1.2rem;
+      z-index: 9999;
       cursor: pointer;
       .bar {
         position: relative;
@@ -131,8 +132,14 @@ body {
   body .mobile {
     display: block;
   }
+  body .bg-top {
+    height: 40vh;
+  }
   body .bg-black-60.full .main-title .headline {
     font-size: 1.8rem;
+  }
+  body .bg-top.home {
+    background-position: 75%;
   }
   body {
     nav {
