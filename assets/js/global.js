@@ -1,5 +1,10 @@
 jQuery(document).ready(function(){
 
+  // Mobile Menu
+  $('body nav .menu-btn').click(function(){
+    $('body').toggleClass('menuOpen');
+  });
+
   $('#attending').change(function(){
 
     if($(this).val() == 'Yes') {
