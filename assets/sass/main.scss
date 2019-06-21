@@ -102,6 +102,7 @@ body {
       ul#main-nav {
         visibility: visible;
         opacity: 1;
+        z-index: 9999;
       }
     }
     .bg-top {
