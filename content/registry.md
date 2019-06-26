@@ -12,4 +12,6 @@ menu:
 ---
 We are registered at the following stores, click a logo below to be taken to our online registry.
 
-<a target="_blank" href="https://www.target.com/gift-registry/giftgiver?registryId=071cca8cf3c94f1fb2236b071853a321&type=WEDDING"><img style="width:auto;height:77px;" src="/uploads/target-logo.png" /></a><a target="_blank" href="https://www.amazon.com/wedding/tyler-hozie-brooke-wiley-st-louis-september-2019/registry/27KSYS59FON5K"><img style="margin-left: 30px;width:auto;height:77px;" src="/uploads/amazon-logo.png" /></a>
+<a style="display:block;" target="_blank" href="https://www.target.com/gift-registry/giftgiver?registryId=071cca8cf3c94f1fb2236b071853a321&type=WEDDING"><img style="width:auto;height:77px;" src="/uploads/target-logo.png" /></a>
+
+<a style="display:block;margin-top:30px;" target="_blank" href="https://www.amazon.com/wedding/tyler-hozie-brooke-wiley-st-louis-september-2019/registry/27KSYS59FON5K"><img style="width:auto;height:77px;" src="/uploads/amazon-logo.png" /></a>
