@@ -1,6 +1,6 @@
 ---
 title: Accommodations
-featured_image: "/uploads/accomodations-photo.jpg"
+featured_image: "/uploads/accomodations-photo-1.jpg"
 sidebar_content: ''
 featured_headline: ''
 menu:
