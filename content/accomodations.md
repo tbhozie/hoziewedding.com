@@ -19,6 +19,15 @@ menu:
 Ceremony: 5:30PM  
 Reception: Immediately follows ceremony
 
+#### Welcome Dinner
+
+Friday, September 20  
+Time: 7:00PM
+
+[NEO on Locust](http://neostl.com/)  
+2801 Locust St, St. Louis, MO 63103  
+[(314) 570-9218](tel:3145709218)
+
 #### Hotel
 
 [Curio Collection Union Station St. Louis Hotel](https://curiocollection3.hilton.com/en/hotels/missouri/st-louis-union-station-hotel-curio-collection-by-hilton-STLCUQQ/index.html)  
