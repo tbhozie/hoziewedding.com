@@ -3,7 +3,7 @@ title: RSVP
 banner_image: ''
 banner_header: RSVP
 date: '2019-04-07T23:24:05.000+00:00'
-featured_image: "/uploads/rsvp-photo.jpg"
+featured_image: "/uploads/rsvp-photo-1.jpg"
 sidebar_content: ''
 featured_headline: ''
 menu:
