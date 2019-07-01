@@ -19,10 +19,10 @@ menu:
 Ceremony: 5:30PM  
 Reception: Immediately follows ceremony
 
-#### Welcome Dinner
+#### Welcome Reception/Dinner
 
 Friday, September 20  
-Time: 7:00PM
+Time: 7:00PM-11:00PM
 
 [NEO on Locust](http://neostl.com/)  
 2801 Locust St, St. Louis, MO 63103  
