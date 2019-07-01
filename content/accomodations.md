@@ -10,15 +10,6 @@ menu:
 ---
 ## Find all the details below for accommodations
 
-#### Wedding and Reception
-
-[Windows on Washington](https://wowbanquets.com/)  
-1601 Washington Ave, St. Louis, MO 63103  
-[(314) 241-5555](tel:3142415555)
-
-Ceremony: 5:30PM  
-Reception: Immediately follows ceremony
-
 #### Welcome Reception/Dinner
 
 Friday, September 20  
@@ -27,6 +18,15 @@ Time: 7:00PM-11:00PM
 [NEO on Locust](http://neostl.com/)  
 2801 Locust St, St. Louis, MO 63103  
 [(314) 570-9218](tel:3145709218)
+
+#### Wedding and Reception
+
+[Windows on Washington](https://wowbanquets.com/)  
+1601 Washington Ave, St. Louis, MO 63103  
+[(314) 241-5555](tel:3142415555)
+
+Ceremony: 5:30PM  
+Reception: Immediately follows ceremony
 
 #### Hotel
 
