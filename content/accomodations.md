@@ -6,6 +6,7 @@ featured_headline: ''
 menu:
   main:
     weight: 2
+draft: true
 
 ---
 ## Find all the details below for accommodations
