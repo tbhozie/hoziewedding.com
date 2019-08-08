@@ -13,7 +13,7 @@ menu:
 #### Welcome Reception/Dinner
 
 Friday, September 20  
-Time: 7:00PM-11:00PM
+Time: 6:30PM-10:30PM
 
 [NEO on Locust](http://neostl.com/)  
 2801 Locust St, St. Louis, MO 63103  
